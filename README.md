@@ -1,10 +1,10 @@
 # cypress-5-12-23
 
-## Issue: Tests are loading very slowly when run using Chrome or Edge
+## Issue: Tests are running very slowly when run using Chrome or Edge
 
 ## Cypress Version: 9.7.0
 
-This is a fairly recent issue as it started occurring sometime last week. Tests that are run using the Chrome/Edge browser run a lot slower than before. This issue does not seem to affect the other browsers as when running this in FireFox or Electron, the runtime is substantially decreased. However, we'd like to continue running tests in Chrome due to the choice of browser from our user base.
+This is a fairly recent issue as it started occurring sometime last week. Tests that are run using the Chrome/Edge browser run a lot slower than before. This issue does not seem to affect the other browsers as when running this in FireFox or Electron, the runtime is substantially decreased. Before, the run time was roughly around the same. However, we'd like to continue running tests in Chrome due to the choice of browser from our user base.
 
 ## Steps:
 1. Clone the repo
