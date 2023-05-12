@@ -1,0 +1,11 @@
+{
+  "name": "cypress-5-12-23",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Jordan711/cypress-5-12-23.git",
+  "author": "Jordan Feng <jordan.feng@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "9.7.0"
+  }
+}
